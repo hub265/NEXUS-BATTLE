@@ -78,7 +78,7 @@
 </head>  
 <body>  
   <div class="logo">  
-    <<img width="500" height="500" alt="1000110922" src="https://github.com/user-attachments/assets/6f462568-c633-4598-a12f-c93c9cdb1ea9" />
+    <img width="500" height="500" alt="1000110922" src="https://github.com/user-attachments/assets/6f462568-c633-4598-a12f-c93c9cdb1ea9" />
   
   <h1>NEXUS BATTLE</h1>  
   
