@@ -119,5 +119,3 @@
   
   <footer>© 2025 NEXUS BATTLE. All Rights Reserved.</footer>  
   
-</body>  
-</html>
